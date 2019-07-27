@@ -1,3 +1,9 @@
+**Note**: This is a fork containing a fix for PreviewLocal. Since the original author hasn't
+updated their repo in a year, and is not accepting fixes, this is an unnoficial fork with my own
+fixes.
+
+---
+
 Vim Markdown Preview
 ====================
 
